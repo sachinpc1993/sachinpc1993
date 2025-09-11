@@ -1,6 +1,6 @@
 # 👋 Welcome, I'm Sachin  
 
-🔎 **Researcher** at the crossroads of *Information Retrieval (IR)*, *Natural Language Processing (NLP)*, and *Conversational AI*  
+🔎 **Researcher** working in *Information Retrieval (IR)*, *Natural Language Processing (NLP)*, and *Conversational AI*  
 
 🎓 **PhD in Computer Science** — RMIT University (2025)  
 🎓 **Master’s in Information Technology** — Monash University (2019)  
@@ -8,7 +8,10 @@
 
 💻 **Industry Experience**: Data Scientist (IR, NLP, GenAI) · Software Engineer  
 
+📚 **Areas of Interest**: Evaluation of information access systems · Knowledge-augmented conversational AI · Responsible AI 
+
 🧩 **Engineering Philosophy**: I see software engineering as the cornerstone of impactful research — applying **object-oriented design**, **Pydantic data models**, **CLI tools**, and **API endpoints**, with packaging and containerization to ensure **scalability, maintainability, and reproducibility**.  
+
 
 ---
 
