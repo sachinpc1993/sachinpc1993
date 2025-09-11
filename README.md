@@ -13,7 +13,7 @@
 ## ⚡ Tech Arsenal
 </> **Languages**: Python (preferred) · SQL · C++  
 🤖 **AI/ML**: PyTorch · TensorFlow · HuggingFace · LangChain · Langflow  
-🔍 **Search/IR**: Sparse Retrieval · Dense Retrieval · Vector Databases · ElasticSearch · RAG systems · Agentic AI 
+🔍 **Search/IR**: Sparse Retrieval · Dense Retrieval · Vector Databases · ElasticSearch · RAG systems
 ⚙️ **Engineering**: FastAPI · PySpark · PostgreSQL · Docker  
 ☁️ **Cloud/Infra**: AWS (EC2 · S3 · Lambda · SageMaker · Bedrock · Kendra · Polly · ECR · App Runner)  
 📊 **Data/Workflow**: Airflow · Prefect · n8n · LangGraph   
