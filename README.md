@@ -24,7 +24,8 @@
 
 ## 📊 GitHub at a Glance
 ![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinpc1993&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinpc1993&layout=compact&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinpc1993&layout=compact&theme=radical&count_private=true&hide=html,css)
+
 
 ---
 
