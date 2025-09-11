@@ -39,4 +39,3 @@
 ✍️ [Medium](https://medium.com/@sachinpc.1993)  
 🆔 [ORCID](https://orcid.org/0000-0001-9982-3944)  
 💡 [Stack Overflow](https://stackoverflow.com/users/8433160)
-
