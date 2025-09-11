@@ -8,7 +8,7 @@
 
 💻 **Industry Experience**: Data Scientist (IR, NLP, GenAI) · Software Engineer  
 
-📚 **Areas of Interest**: Evaluation of information access systems · Knowledge-augmented conversational AI · Responsible AI 
+📚 **Areas of Interest**: Evaluation of Information Access Systems · Knowledge-Augmented Conversational AI · Responsible AI
 
 🧩 **Engineering Philosophy**: I see software engineering as the cornerstone of impactful research — applying **object-oriented design**, **Pydantic data models**, **CLI tools**, and **API endpoints**, with packaging and containerization to ensure **scalability, maintainability, and reproducibility**.  
 
