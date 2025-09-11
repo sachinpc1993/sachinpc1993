@@ -8,6 +8,8 @@
 
 💻 **Industry Experience**: Data Scientist (IR, NLP, GenAI) · Software Engineer  
 
+🧩 **Engineering Philosophy**: I firmly believe software engineering is the cornerstone of impactful research — combining **object-oriented design**, **Pydantic data models**, **CLI tools**, and **API endpoints** to ensure scalability, maintainability, and reproducibility.  
+
 ---
 
 ## ⚡ Tech Arsenal
