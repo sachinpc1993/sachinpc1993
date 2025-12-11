@@ -10,7 +10,7 @@
 
 📚 **Areas of Interest**: Evaluation of Information Access Systems · Knowledge-Augmented Conversational AI · Responsible AI
 
-🧩 **Engineering Philosophy**: I see software engineering as the cornerstone of impactful research — applying **object-oriented design**, **Pydantic data models**, **CLI tools**, and **API endpoints**, with packaging and containerization to ensure **scalability, maintainability, and reproducibility**.  
+🧩 **Engineering Philosophy**: I see software engineering as the cornerstone of impactful research - applying **object-oriented design**, **Pydantic data models**, **CLI tools**, and **API endpoints**, with packaging and containerization to ensure **scalability, maintainability, and reproducibility**.  
 
 
 ---
@@ -21,13 +21,8 @@
 🔍 **Search/IR**: Sparse Retrieval · Dense Retrieval · Ranking Algorithms · Vector Databases · RAG systems   
 ⚙️ **Engineering**: FastAPI · PySpark · PostgreSQL · Docker  
 ☁️ **Cloud/Infra**: AWS (EC2 · S3 · Lambda · SageMaker · Bedrock · Kendra · Polly · ECR · App Runner)  
-📊 **Data/Workflow**: Airflow · Prefect · n8n · LangGraph   
+📊 **Data/Workflow**: LangGraph · Airflow · Prefect · n8n   
 
-
----
-
-## 📊 GitHub at a Glance
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinpc1993&show_icons=true&theme=radical&count_private=true)  
 
 
 ---
